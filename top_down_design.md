@@ -1,0 +1,27 @@
+- 1. Visit turing.io website
+  - 1.1 open browser
+    - 1.1.1 type "http://turing.io" into the address window
+    - 1.1.2 once it loads, click on "Programs" from the top menu
+  - 1.2 Choose Program
+    - 1.2.1 if Front End:
+      - 1.2.2 click on the yellow "APPLY NOW" button
+    - 1.2.1 if Back End:
+      - 1.2.2 click on the red "APPLY NOW" button
+- 2 Pre-Application Process
+  - 2.1 Learn about the application process:
+    - 2.1.1 Watch the "How to Apply" video
+    - 2.1.2 Read the introduction by Erin Williams
+  - 2.2 Click the blue "Apply Now" button
+    - 2.2.1 Log in with GitHub
+      - 2.2.1.1 enter your GitHub username
+      - 2.2.1.2 enter your GitHub password
+    - 2.2.1 Log in with Facebook
+      - 2.2.1.1 enter your Facebook username
+      - 2.2.1.2 enger your Facebook password
+- 3. Application Process **can't see the enrollment form since I am already enrolled.**
+  - 3.1 Fill out application form
+    - 3.1.1 Name
+    - 3.1.2 Email
+    - 3.1.3 Phone number
+  - 3.2 Click Submit
+  - 3.3 Wait for a response.
